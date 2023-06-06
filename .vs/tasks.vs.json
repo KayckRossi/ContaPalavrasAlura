@@ -1,0 +1,10 @@
+{
+  "version": "0.2.1",
+  "tasks": [
+    {
+      "taskLabel": "tarefa-principal",
+      "appliesTo": "alura-typer/public/principal.html",
+      "type": "launch"
+    }
+  ]
+}
